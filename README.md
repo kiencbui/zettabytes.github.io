@@ -1,1 +1,1 @@
-# zettabytes.github.io
+# zettabytes.xyz
