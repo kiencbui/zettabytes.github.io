@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zettabytes.xyz/</loc>
+    <lastmod>2025-08-16T14:48:19+07:00</lastmod>
+  </url><url>
+    <loc>https://zettabytes.xyz/posts/</loc>
+    <lastmod>2025-08-16T14:48:19+07:00</lastmod>
+  </url><url>
     <loc>https://zettabytes.xyz/tags/cache/</loc>
     <lastmod>2025-08-16T11:23:05+07:00</lastmod>
   </url><url>
@@ -29,13 +35,7 @@
     <loc>https://zettabytes.xyz/posts/hello-world/</loc>
     <lastmod>2025-08-16T11:23:05+07:00</lastmod>
   </url><url>
-    <loc>https://zettabytes.xyz/</loc>
-    <lastmod>2025-08-16T11:23:05+07:00</lastmod>
-  </url><url>
     <loc>https://zettabytes.xyz/tags/markdown/</loc>
-    <lastmod>2025-08-16T11:23:05+07:00</lastmod>
-  </url><url>
-    <loc>https://zettabytes.xyz/posts/</loc>
     <lastmod>2025-08-16T11:23:05+07:00</lastmod>
   </url><url>
     <loc>https://zettabytes.xyz/tags/</loc>
