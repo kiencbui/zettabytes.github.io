@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 16 Aug 2025 11:23:05 +0700</lastBuildDate>
     <atom:link href="https://zettabytes.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>False Sharing</title>
+      <link>https://zettabytes.xyz/posts/false-sharing/</link>
+      <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
+      <guid>https://zettabytes.xyz/posts/false-sharing/</guid>
+      <description>&lt;h1 id=&#34;false-sharing-in-cpu&#34;&gt;False Sharing in CPU&lt;/h1&gt;&#xA;&lt;p&gt;False sharing is a performance problem that happens when multiple CPU cores try to work with data that lives in the same cache line, even though they&amp;rsquo;re actually working on different pieces of data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-a-cache-line&#34;&gt;What is a Cache Line?&lt;/h2&gt;&#xA;&lt;p&gt;To understand false sharing, we first need to know about cache lines. When a CPU reads data from memory, it doesn&amp;rsquo;t just read one byte at a time. Instead, it reads a whole chunk of data called a cache line, which is typically 64 bytes on modern processors.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hello World</title>
       <link>https://zettabytes.xyz/posts/hello-world/</link>
       <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
