@@ -9,13 +9,6 @@
     <lastBuildDate>Sat, 16 Aug 2025 11:23:05 +0700</lastBuildDate>
     <atom:link href="https://zettabytes.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogdown</title>
-      <link>https://zettabytes.xyz/tags/blogdown/</link>
-      <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
-      <guid>https://zettabytes.xyz/tags/blogdown/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Cache</title>
       <link>https://zettabytes.xyz/tags/cache/</link>
       <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
@@ -27,6 +20,20 @@
       <link>https://zettabytes.xyz/tags/false-sharing/</link>
       <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
       <guid>https://zettabytes.xyz/tags/false-sharing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://zettabytes.xyz/tags/go/</link>
+      <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
+      <guid>https://zettabytes.xyz/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hello</title>
+      <link>https://zettabytes.xyz/tags/hello/</link>
+      <pubDate>Sat, 16 Aug 2025 11:23:05 +0700</pubDate>
+      <guid>https://zettabytes.xyz/tags/hello/</guid>
       <description></description>
     </item>
     <item>
