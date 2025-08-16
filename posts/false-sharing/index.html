@@ -34,7 +34,6 @@
 </div>
 
 <main>
-<h1 id="false-sharing-in-cpu">False Sharing in CPU</h1>
 <p>False sharing is a performance problem that happens when multiple CPU cores try to work with data that lives in the same cache line, even though they&rsquo;re actually working on different pieces of data.</p>
 <h2 id="what-is-a-cache-line">What is a Cache Line?</h2>
 <p>To understand false sharing, we first need to know about cache lines. When a CPU reads data from memory, it doesn&rsquo;t just read one byte at a time. Instead, it reads a whole chunk of data called a cache line, which is typically 64 bytes on modern processors.</p>
