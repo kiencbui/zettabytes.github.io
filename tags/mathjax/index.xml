@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MathJax on Zettabytes</title>
+    <link>https://zettabytes.xyz/tags/mathjax/</link>
+    <description>Recent content in MathJax on Zettabytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zettabytes.xyz/tags/mathjax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://zettabytes.xyz/posts/hello-world/</link>
+      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://zettabytes.xyz/posts/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Zettabytes&lt;/strong&gt; — our journey into technology and systems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
